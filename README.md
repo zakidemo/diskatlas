@@ -4,8 +4,7 @@
 
 > Your disk isn't full of folders. It's full of **things**: conda environments, model weights, npm caches, WSL virtual disks, training checkpoints. DiskAtlas recognizes them, explains them in plain words, scores how safe they are to remove, and hands you the exact command to reclaim the space.
 
-<!-- HERO GIF GOES HERE: record the Reclaim drive counter animating up. This one GIF is the whole pitch. -->
-<!-- ![DiskAtlas reclaiming space](hero.gif) -->
+![DiskAtlas demo](hero.gif)
 
 ---
 
